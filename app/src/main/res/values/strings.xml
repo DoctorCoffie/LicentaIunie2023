@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OptiStudy</string>
+    <string name="home">Acasa</string>
+    <string name="about">Despre</string>
+    <string name="light">Lumina</string>
+    <string name="noise">Zgomot</string>
+    <string name="temperature">Temperatura</string>
+    <string name="gyroscope">Busola</string>
+</resources>
